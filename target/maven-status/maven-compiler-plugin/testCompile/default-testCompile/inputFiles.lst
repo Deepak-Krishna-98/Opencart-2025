@@ -1,0 +1,13 @@
+/Users/deepak/eclipse-workspace/OpencartV12/src/test/java/pageObjects/AccountRegistrationPage.java
+/Users/deepak/eclipse-workspace/OpencartV12/src/test/java/pageObjects/BasePage.java
+/Users/deepak/eclipse-workspace/OpencartV12/src/test/java/pageObjects/Homepage.java
+/Users/deepak/eclipse-workspace/OpencartV12/src/test/java/pageObjects/LoginPage.java
+/Users/deepak/eclipse-workspace/OpencartV12/src/test/java/pageObjects/MyAccountPage.java
+/Users/deepak/eclipse-workspace/OpencartV12/src/test/java/testBase/BaseClass.java
+/Users/deepak/eclipse-workspace/OpencartV12/src/test/java/testCases/TC001_AccountRegistrationTest.java
+/Users/deepak/eclipse-workspace/OpencartV12/src/test/java/testCases/TC002_LoginTest.java
+/Users/deepak/eclipse-workspace/OpencartV12/src/test/java/testCases/TC003_LoginDDT.java
+/Users/deepak/eclipse-workspace/OpencartV12/src/test/java/utilities/DataProviders.java
+/Users/deepak/eclipse-workspace/OpencartV12/src/test/java/utilities/DataReader.java
+/Users/deepak/eclipse-workspace/OpencartV12/src/test/java/utilities/ExcelUtility.java
+/Users/deepak/eclipse-workspace/OpencartV12/src/test/java/utilities/ExtentReportManager.java

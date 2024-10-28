@@ -1,0 +1,8 @@
+21:59:38.942 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/deepak/eclipse-workspace/OpencartV12/grid.xml
+
+22:01:25.204 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/deepak/eclipse-workspace/OpencartV12/grid.xml
+
+22:01:43.970 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ***
+22:01:50.129 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***

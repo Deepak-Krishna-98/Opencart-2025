@@ -1,0 +1,26 @@
+20:28:52.813 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/deepak/eclipse-workspace/OpencartV12/grid.xml
+
+20:29:14.538 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest*** 
+20:33:48.785 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/deepak/eclipse-workspace/OpencartV12/grid.xml
+
+20:34:03.835 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest*** 
+20:35:33.679 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/deepak/eclipse-workspace/OpencartV12/test-output/testng-failed.xml
+
+20:35:47.490 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest*** 
+20:35:47.967 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+20:35:48.945 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+20:35:48.947 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+20:35:50.300 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message...
+20:35:50.346 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** finished test ***
+20:48:11.971 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/deepak/eclipse-workspace/OpencartV12/test-output/testng-failed.xml
+
+20:48:21.984 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest*** 
+20:48:22.417 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+20:48:23.428 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+20:48:23.430 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+20:48:24.894 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message...
+20:48:24.947 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** finished test ***
