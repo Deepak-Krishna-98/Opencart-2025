@@ -1,0 +1,31 @@
+21:18:29.469 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:18:29.473 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:18:29.474 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:18:29.475 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:18:29.475 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:18:29.475 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:18:29.477 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+21:18:29.484 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+21:18:29.486 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:18:29.486 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:18:29.486 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:18:29.486 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:18:29.494 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /private/var/folders/by/kgnk8n957wd_w9rn48b1jcpr0000gn/T/testng-eclipse-224318680/testng-customsuite.xml
+
+21:18:29.515 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+21:18:29.586 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@f79a760: 28 ms
+21:18:29.587 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@14f5da2c: 1 ms
+21:18:29.591 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3c435123: 4 ms
+21:18:29.594 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@c260bdc: 3 ms
+21:18:29.596 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4baf352a: 2 ms
+21:18:29.597 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1bb1fde8: 0 ms
+23:26:13.991 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/deepak/eclipse-workspace/OpencartV12/testng.xml
+
+23:27:42.166 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest*** 
+23:27:43.692 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+23:27:47.689 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+23:27:47.693 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+23:27:54.004 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message...
+23:27:54.128 [main] INFO  testCases.TC001_AccountRegistrationTest - *** finished test ***

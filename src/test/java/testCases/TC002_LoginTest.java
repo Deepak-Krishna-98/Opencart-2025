@@ -33,11 +33,11 @@ public class TC002_LoginTest extends BaseClass {
 	MyAccountPage myacc=new MyAccountPage(driver);
 	boolean targetpage=myacc.IsMyAccPageExists();
 	
-	AssertJUnit.assertTrue(targetpage);
+	Assert.assertTrue(targetpage);
 	}
 	catch(Exception e)
 	{
-		AssertJUnit.fail();
+		Assert.fail();
 	}
 	logger.info("*** Finished TC002_LoginTest ***");
 }

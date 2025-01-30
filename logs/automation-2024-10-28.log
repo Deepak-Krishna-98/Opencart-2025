@@ -1,0 +1,6 @@
+18:08:48.016 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** finished test ***
+19:06:51.358 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/deepak/eclipse-workspace/OpencartV12/grid.xml
+
+19:07:10.563 [TestNG-tests-1] INFO  testCases.TC004_SearchProductTest -  Starting TC_004_SearchProductTest 
+19:07:15.461 [TestNG-tests-1] INFO  testCases.TC004_SearchProductTest -  Finished TC_004_SearchProductTest 

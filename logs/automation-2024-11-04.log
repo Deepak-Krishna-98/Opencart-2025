@@ -1,0 +1,16 @@
+19:50:03.234 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/deepak/eclipse-workspace/OpencartV12/grid.xml
+
+22:19:19.233 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/deepak/eclipse-workspace/OpencartV12/grid.xml
+
+22:20:23.161 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/deepak/eclipse-workspace/OpencartV12/grid.xml
+
+22:22:12.687 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/deepak/eclipse-workspace/OpencartV12/grid.xml
+
+22:22:22.553 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ***
+22:37:18.584 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ***
+22:38:11.097 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ***
+22:40:43.554 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ***
